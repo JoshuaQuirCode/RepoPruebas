@@ -8,7 +8,9 @@
 //Que haces;
 
 //haciendo cosas de git;
-// y tu ?
+// y tu ?;
 
-//Igual
-//Seguimos mañana?
+//Igual;
+//Seguimos mañana?;
+
+//a que hora ?;
